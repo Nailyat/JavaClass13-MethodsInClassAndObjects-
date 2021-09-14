@@ -16,4 +16,7 @@ public class Calculator {
 		int result=number1/number2;
 		System.out.println(result);
 	}
+
+    public void addDouble(double v, double v1) {
+    }
 }
